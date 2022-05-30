@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elly806 
+- 👋 Hi, I’m Elena Varvarchuk
 - 👀 I’m interested in testing automation
 - 🌱 I’m currently learning everything about it
 - 💞️ I’m looking to collaborate on Test Coordinator/Test Manager
