@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elly806 
 - 👀 I’m interested in testing automation
 - 🌱 I’m currently learning everything about it
-- 💞️ I’m looking to collaborate for further development as Test Coordinator/Test Manager
+- 💞️ I’m looking to collaborate on Test Coordinator/Test Manager
 
 - 📫 How to reach me radiowomen88@gmail.com
 
