@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Elly806)
 
-## I'm a Test Engineer Automation
+## I'm a Test Automation Engineer
 - 💪 I like to write code
 - 🎉 I love finding bugs
 - 🥅 I am constantly learning new things
-- ⚡ Some bugs will always be present. It is important to understand what the important aspects are, so that tests can be performed primarily on what threatens those aspects
+> Some bugs will always be present. It is important to understand what the important aspects are, so that tests can be performed primarily on what threatens those aspects
 
 
 ### Connect with me:
@@ -28,6 +28,16 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
+
+### Github stats
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elly806&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Elly806's GitHub Stats" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly806&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+</details>
+
 
 [linkedin]: https://www.linkedin.com/in/elena-varvarchuk-8506331bb/
 [instagram]: https://www.instagram.com/elenavarvarchuk/
