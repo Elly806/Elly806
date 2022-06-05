@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Elly806)
 
-## I'm a Test Engineer Automation and Teacher
+## I'm a Test Engineer Automation
 - 💪 I like to write code
 - 🎉 I love finding bugs
 - 🥅 I am constantly learning new things
