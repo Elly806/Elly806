@@ -39,7 +39,7 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/elena-varvarchuk-8506331bb/
-[instagram]: https://www.instagram.com/elenavarvarchuk/
-[facebook]: https://m.facebook.com/profile.php
-[website]: https://yogaxtutti83259815.wordpress.com/
+ [linkedin]: https://www.linkedin.com/in/elena-varvarchuk-8506331bb/
+ [instagram]: https://www.instagram.com/elenavarvarchuk/
+ [facebook]: https://m.facebook.com/profile.php
+ [website]: https://yogaxtutti83259815.wordpress.com/
